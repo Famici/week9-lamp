@@ -5,6 +5,7 @@
 # .tfstate files
 *.tfstate
 *.tfstate.*
+lamp.pem
 
 # Crash log files
 crash.log
